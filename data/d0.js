@@ -1,6 +1,6 @@
 var json__0 = {
 "type": "FeatureCollection",
-"name": "d0",
+"name": "_0",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "fid": "Автоматически" }, "geometry": { "type": "MultiPolygon", "coordinates": [ ] } },
